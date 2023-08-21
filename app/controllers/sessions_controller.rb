@@ -9,3 +9,4 @@ class SessionsController < ApplicationController
         end
     end
 end
+rails g resource Rooms price image_url 
